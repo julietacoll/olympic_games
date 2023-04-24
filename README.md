@@ -22,4 +22,6 @@ Limpio y hago la consulta final sobre el top 10 de países con más medallas en 
 
 <img width="779" alt="sql3" src="https://user-images.githubusercontent.com/81047557/234049626-6f46a77b-7091-454b-87f9-4c7851bf4031.png">
 
+Así queda conformada la base de datos:
+
 <img width="188" alt="image" src="https://user-images.githubusercontent.com/81047557/234049945-8b88f24e-104e-4638-ab5e-6a0844209388.png">
