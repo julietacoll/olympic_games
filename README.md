@@ -2,3 +2,22 @@
 
 La idea y la base de datos fue tomada del siguiente video de Youtube: https://www.youtube.com/watch?v=5T9Bbe1RZGU&list=PLMfXakCUhXsH2WQa255vU75R8-u46-eF0&index=3.
 
+Abro la base de datos:
+
+<img width="184" alt="sql1" src="https://user-images.githubusercontent.com/81047557/234048281-01607cd4-f740-4283-bf8c-3cb52a62057f.png">
+
+Reviso las tablas:
+
+<img width="737" alt="SQL2" src="https://user-images.githubusercontent.com/81047557/234048434-4eb7ad86-4ccb-441e-8b47-cde7bab8ec74.png">
+
+Noto que hay diferencias en el nombre de los países con mismo código por lo que importo un archivo csv con los códigos ISO3 y los nombres correctos:
+
+<img width="178" alt="sql1bis" src="https://user-images.githubusercontent.com/81047557/234048348-c9d9a2a0-99e2-4207-9854-1b30138b9c67.png">
+
+Modifico el nombre de las columnas de la nueva tabla:
+
+<img width="186" alt="sql1ter" src="https://user-images.githubusercontent.com/81047557/234048392-a9c71cf2-8c3e-4f66-96e1-02d38cdfccb4.png">
+
+Limpio y hago la consulta final sobre el top 10 de países con más medallas en los juegos olímpicos de verano:
+
+<img width="186" alt="sql1ter" src="https://user-images.githubusercontent.com/81047557/234048456-216ec672-8e58-4e76-b6b7-0080cead87e6.png">
