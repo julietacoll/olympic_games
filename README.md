@@ -20,4 +20,4 @@ Modifico el nombre de las columnas de la nueva tabla:
 
 Limpio y hago la consulta final sobre el top 10 de países con más medallas en los juegos olímpicos de verano:
 
-<img width="186" alt="sql1ter" src="https://user-images.githubusercontent.com/81047557/234048456-216ec672-8e58-4e76-b6b7-0080cead87e6.png">
+<img width="779" alt="sql3" src="https://user-images.githubusercontent.com/81047557/234049626-6f46a77b-7091-454b-87f9-4c7851bf4031.png">
